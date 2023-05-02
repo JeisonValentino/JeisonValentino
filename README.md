@@ -1,4 +1,4 @@
-# Hola a todos , sean bienvenidos a mi repositorio  soy Jeison - JeiLabs [JeiLabs][youtube] 👋
+# Hola a todos , sean bienvenidos a mi repositorio  soy Jeison -  [JeiLabs][youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNErMFOj7AVGZxYlSPaWw8g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
