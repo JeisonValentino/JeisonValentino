@@ -1,5 +1,6 @@
-### Hola a todos , sean bienvenidos a mi repositorio 👋
+### Hola a todos , sean bienvenidos a mi repositorio  soy Jeison - JeyTech [youtube]👋
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNErMFOj7AVGZxYlSPaWw8g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 
 
