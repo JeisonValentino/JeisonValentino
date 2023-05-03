@@ -2,12 +2,12 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNErMFOj7AVGZxYlSPaWw8g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JeiLabs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-
-
 <a href="https://www.linkedin.com/in/jeison-chavez-18a740221/">
 <img src="https://img.shields.io/badge/jeison-chavez-18a740221?style=for-the-badge&logo=linkedin&logoColor=white" />  
 <a/>
+
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
 </p>
