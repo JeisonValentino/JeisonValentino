@@ -8,10 +8,8 @@
 <img src="https://img.shields.io/badge/jeison-chavez-18a740221?style=for-the-badge&logo=linkedin&logoColor=white" />  
 <a/>
 
-
-<div >
 jeisonvalentino11@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
-<div/> 
+
 
 
 <p align="center">
