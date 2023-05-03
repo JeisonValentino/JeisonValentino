@@ -9,8 +9,9 @@
 <a/>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  :  jeisonvalentino11@gmail.com 
-
-
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> : +51 977932680
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> : +51 977932680
+  <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> : Jeison Chaves 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
@@ -19,11 +20,15 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91108144/226403279-7a9bfaf8-d9f7-4b16-935f-e7331f0a1a04.gif" alt="Sublime's custom image"/>
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91108144/226403441-ad5b159e-882e-401a-bf69-3bd4a87f005e.gif" alt="Sublime's custom image"/>
-</p>
 
-
+Record de lenguajes mas usados
+  
+  https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+  
+Mis fortalezas 
+  
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}
+  
 
 [youtube]:https://www.youtube.com/@JeiLabs
 [twitter]:https://twitter.com/JeiLabs
