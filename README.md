@@ -5,9 +5,8 @@
 
 
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jeison-chavez-18a740221/#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/jeison-chavez-18a740221/#gh-dark-mode-only)
 
+<img src="https://img.shields.io/badge/jeison-chavez-18a740221?style=for-the-badge&logo=linkedin&logoColor=white" />  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
