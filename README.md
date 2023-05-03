@@ -5,8 +5,8 @@
 
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jeison-chavez-18a740221/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jeison-chavez-18a740221/#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jeison-chavez-18a740221/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/jeison-chavez-18a740221/#gh-dark-mode-only)
 
 
 <p align="center">
