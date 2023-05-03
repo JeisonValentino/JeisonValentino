@@ -10,7 +10,7 @@
 
 
 <div >
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <p align="center"> jeisonvalentino11@gmail.com</p>
+jeisonvalentino11@gmail.com< <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
 <div/> 
 
 
