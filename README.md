@@ -6,9 +6,9 @@
 # Forma de contacto 
 <a href="https://www.linkedin.com/in/jeison-chavez-18a740221/">
 <img src="https://img.shields.io/badge/jeison-chavez-18a740221?style=for-the-badge&logo=linkedin&logoColor=white" />  
-<a/>
+</a>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  :  jeisonvalentino11@gmail.com 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <div style="display:flex; justify-content:center; "> :  jeisonvalentino11@gmail.com</div> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> : +51 977932680
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> : +51 977932680
   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> : Jeison Chaves 
