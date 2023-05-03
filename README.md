@@ -19,10 +19,6 @@
 
 # Habilidades  
   
-  <img src=''
-/>
-<img src='  '
-/>
 <img src='  https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white  '
 />
 <img src='  https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white  '
@@ -97,14 +93,7 @@
   <img src="https://user-images.githubusercontent.com/91108144/226403279-7a9bfaf8-d9f7-4b16-935f-e7331f0a1a04.gif" alt="Sublime's custom image"/>
 </p>
 
-Record de lenguajes mas usados
-  
-  https://github-readme-stats.vercel.app/api/top-langs/?username={JeiLabs}
-  
-Mis fortalezas 
-  
-  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={JeiLabs}
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+
 
 [youtube]:https://www.youtube.com/@JeiLabs
 [twitter]:https://twitter.com/JeiLabs
