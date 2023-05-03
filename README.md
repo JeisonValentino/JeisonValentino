@@ -6,9 +6,7 @@
 # Forma de contacto 
 <a href="https://www.linkedin.com/in/jeison-chavez-18a740221/"><img src="https://img.shields.io/badge/jeison-chavez-18a740221?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:jeisonvalentino11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/gx1k1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a><a href="https://t.me/JeiLabs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
-</p>
+
 
   
 # Habilidades  
