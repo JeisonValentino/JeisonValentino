@@ -23,12 +23,12 @@
 
 Record de lenguajes mas usados
   
-  https://github-readme-stats.vercel.app/api/top-langs/?username={JeisonValentino}
+  https://github-readme-stats.vercel.app/api/top-langs/?username={JeiLabs}
   
 Mis fortalezas 
   
-  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={JeisonValentino}
-  
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={JeiLabs}
+  https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 [youtube]:https://www.youtube.com/@JeiLabs
 [twitter]:https://twitter.com/JeiLabs
