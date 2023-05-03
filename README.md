@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/jeison-chavez-18a740221/">
 <img src="https://img.shields.io/badge/jeison-chavez-18a740221?style=for-the-badge&logo=linkedin&logoColor=white" />  
 </a>
-<div style="display:flex; align-content:center; ">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <h1>jeisonvalentino11@gmail.com</div> </h1>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <h1>jeisonvalentino11@gmail.com </h1>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> : +51 977932680
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> : +51 977932680
   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> : Jeison Chaves 
