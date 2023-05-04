@@ -87,8 +87,8 @@
   
   
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeisonValentino&theme=radical" />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonValentino&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=JeisonValentino&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonValentino&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;" />
   
   <img src="https://user-images.githubusercontent.com/91108144/226403279-7a9bfaf8-d9f7-4b16-935f-e7331f0a1a04.gif" alt="Sublime's custom image"/>
     <img src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
