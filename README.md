@@ -1,9 +1,9 @@
 # Hola a todos , bienvenidos a mi repositorio  soy Jeison -  [JeiLabs][youtube] 👋
-<div   >
+<div  align="center" >
   
 
-  <img align="left"  width="430" src="https://user-images.githubusercontent.com/91108144/226403279-7a9bfaf8-d9f7-4b16-935f-e7331f0a1a04.gif" alt="Sublime's custom image"/>
-    <img align="right" width="430"   src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
+  <img  width="430" src="https://user-images.githubusercontent.com/91108144/226403279-7a9bfaf8-d9f7-4b16-935f-e7331f0a1a04.gif" alt="Sublime's custom image"/>
+    <img width="430"   src="https://user-images.githubusercontent.com/91108144/226403090-afb5dba1-b770-4170-af64-1c871c4087ee.gif" alt="Sublime's custom image"/>
 
 </div>
 
