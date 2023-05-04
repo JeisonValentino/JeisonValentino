@@ -100,4 +100,5 @@ JeisonValentino&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_colo
 [youtube]:https://www.youtube.com/@JeiLabs
 [twitter]:https://twitter.com/JeiLabs
 [linkedin]: https://www.linkedin.com/in/jeison-chavez-18a740221/
-<!- https://ileriayo.github.io/markdown-badges/ -->
+
+ https://ileriayo.github.io/markdown-badges/
